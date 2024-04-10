@@ -1,4 +1,4 @@
-Here I'll be posting my personal notes on various topics, mainly taken durind PhD course at GSSI
+Here I'll be posting my personal notes on various topics, mainly taken during PhD course at GSSI
 
 
 > [Short Course on Multi-Probe Cosmology](Murgia_Course_2023.pdf)
