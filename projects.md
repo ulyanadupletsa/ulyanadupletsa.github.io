@@ -13,10 +13,10 @@ When following the merger history of a black hole and implementing delay times b
 
 Time delays affect the binary merger rates with respect to the galactic merger rates, shifting lower redshifts the moment when most mergers occur.
 
-- Find notes [here](projects/SMBH_TreeMerger.pdf)
+- Find notes [here](SMBH_TreeMerger.pdf)
 
 ## Projects in C/C++
-Here are some [notes](projects/computational_master.pdf) on the two projects you can find open-source on my GitHub:
+Here are some [notes](computational_master.pdf) on the two projects you can find open-source on my GitHub:
 - Harmonic oscillator [Github project](https://github.com/ulyanadupletsa/HarmonicOscillator)
 - Lattice phi4 theory [Github project](https://github.com/ulyanadupletsa/LatticePhi4Theory)
 
@@ -35,10 +35,10 @@ The discovery of the concept of black hole entropy goes to Jacob Bekenstein. Her
 > *You don't destroy entropy when you drop those teacups into the black hole. The black hole already has entropy, and you only increase it!*
 
 I've studied black hole's entropy during my master degree
-- Master thesis [here](projects/master.pdf)
+- Master thesis [here](master.pdf)
 
 ## Bachelor's degree
-- Bachelor thesis [here](projects/BachelorThesis.pdf)
+- Bachelor thesis [here](BachelorThesis.pdf)
 
 
 
