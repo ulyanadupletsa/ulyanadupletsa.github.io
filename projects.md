@@ -1,4 +1,4 @@
-Projects I developed throughout my academic career:
+Projects I developed before my PhD:
 
 ## Super Massive Black Holes
 Project on the analysis of supermassive black hole (SMBH) merger trees.
