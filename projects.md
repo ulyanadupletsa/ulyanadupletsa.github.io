@@ -1,3 +1,22 @@
+## PhD in Astroparticle Physics
+Thesis on "Cosmic chirps: extracting cosmological and astrophysical information from compact binary mergers"
+
+This thesis explores the multi-faceted and promising science of gravitational waves (GWs) from \compact binary coalescneces (CBCs), focusing on the information they provide and how we can extract it. Central to our work is the question: What is the data content of the GW signals from CBCs, and how can we effectively analyze it to enhance our understanding of the Universe? This study addresses current detector networks and next-generation (XG) instruments, linking data analysis with \acrfull{MM} applications and cosmology.
+
+In the first part, the analysis centers on current detectors, using data from the LIGO-Virgo-KAGRA (LVK) network. We explore spectral siren cosmology by applying hierarchical Bayesian inference to simulated and measured data. A significant focus is on quantifying the bias in the inferred Hubble constant value, $H_0$, that arises from mismodeling the black hole (BH) population—specifically, the effects of neglecting the redshift dependence of the BH mass spectrum. We report a bias at $2\sigma$ level, signaling the impact of the mass model. We also show preliminary results from the O4a observational run, presenting the latest estimate of $H_0$ and the impact of a new mass model that encompasses all the observed CBCs, without the need to distinguish between BHs or neutron stars (NSs). Being able to use all the available GW events gives us tighter constraints on $H_0$, although still far from the level of Planck or supernovae results.
+
+The second part shifts the focus to future GW observatories, with the Einstein Telescope (ET) exemplifying XG capabilities. We thoroughly discuss forecasting analysis techniques based on the Fisher matrix approximation, which is the current approach for assessing XG detectors performance. In this context, we present the software tool GWFish, which simulates GW detector networks and implements fast Fisher matrix parameter estimation. Additionally, we integrate prior information into GWFish to study the interplay between signal-to-noise ratio and parameter correlations effectively, testing it to be a reliable method for predicting detectors performance against measured data from the LVK Collaboration. 
+
+GWFish is employed for several different applications related to the rich ET science case. It is one of the two Fisher codes used for the design comparison (ET-$\Delta$ versus ET-2L) paper of ET. Specifically, one of the key aspects that we explore is multi-messenger (MM) astrophysics, evaluating the prospects for synergy between GWs and electromagnetic (EM) observatories based on sky localization and pre-merger alerts analyses. This work highlights the performance of different ET designs, particularly stressing the role of the sensitivity at low frequencies.
+
+Furthermore, we conduct an in-depth study of the joint GW and kilonovae (KNe) detections using future EM telescopes like the Vera Rubin Observatory, pinpointing which are the primary sources of uncertainties in MM studies, from the GW network to population models to the microphysics of NS systems. 
+
+Additionally, we investigate ET prospects for cosmological analysis using both bright siren -binary neutron star events with gamma-ray burst counterparts- and dark siren -binary black holes events along with the large-scale structure data as mapped through the $21$\,cm emission from neutral hydrogen- approaches to infer cosmological parameters up to redshifts as high as $z\sim 3$ in the dark siren case. In both scenarios, we demonstrate the enormous potential of ET in constraining cosmological parameters, thanks to the enhanced parameter estimation and detection numbers.
+
+This work builds a framework that links advanced data analysis techniques, predicts detector performance, and includes MM observations and cosmological inference. The findings improve our understanding of GW astronomy, paving the way for future studies with existing and XG observatories.
+
+- PhD Thesis [here](PhD_Thesis_Dupletsa.pdf)
+
 Projects I developed before my PhD:
 
 ## Super Massive Black Holes
